@@ -135,4 +135,7 @@ h2 {
   .karta-number {
     font-size: 13px;
   }
+  .main{
+    padding-bottom: 30px;
+  }
 }
